@@ -1,4 +1,4 @@
-# Reddit RAG Chatbot
+# Reddit RAG Chatbot 
 
 Chatbot RAG (Retrieval-Augmented Generation) basé sur des conversations Reddit, avec API FastAPI et frontend HTML/JS.
 
